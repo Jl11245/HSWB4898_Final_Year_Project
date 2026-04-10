@@ -1,0 +1,17 @@
+{
+  "total_videos": 4,
+  "per_page": 4,
+  "auto_interval_sec": 0,
+  "bed_names": [
+    "Bed 1",
+    "Bed 2",
+    "Bed 3",
+    "Bed 4"
+  ],
+  "video_paths": [
+    "E:\\Carevision_Demo - \u8907\u88fd\\Defaced_Video_Daatasets\\20250221T162420_192.168.1.11.mp4",
+    "",
+    "",
+    ""
+  ]
+}
